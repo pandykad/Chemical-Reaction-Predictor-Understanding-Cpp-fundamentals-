@@ -6,4 +6,7 @@ It was developed to understand and tinker with the fundamentals of c++ language.
 Also it only works for halogens !
 It was implemented as mini project for 2nd semester of comp science in 2017.
 
+# Execution
+Open terminal in the downloaded directory.
+Run command chemical
 Happy Coding !
