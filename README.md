@@ -8,5 +8,6 @@ It was implemented as mini project for 2nd semester of comp science in 2017.
 
 # Execution
 Open terminal in the downloaded directory.
-Run command chemical
+Run command gcc chemical_reaction_predictor.cpp
+
 Happy Coding !
